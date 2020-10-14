@@ -1,0 +1,17 @@
+Buatlah program untuk membaca sekumpulan bilangan bulat (integer) yang diakhiri -999 (-999 tidak termasuk), dan mencetak banyaknya bilangan genap, ganjil, positif, dan negatif. Bilangan 0 adalah bilangan genap, tetapi tidak positif atau pun negatif.
+
+#Contoh 1
+Input :	
+-9
+12
+0
+-6
+27
+62
+-999
+
+Output :	
+Bilangan genap ada = 4
+Bilangan ganjil ada = 2
+Bilangan positif ada = 3
+Bilangan negatif ada = 2
