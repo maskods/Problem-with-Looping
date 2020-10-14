@@ -1,0 +1,24 @@
+Masih ingatkah dengan lagu Anak Ayam??
+
+Anak ayam turunlah 5
+Mati satu tinggallah 4
+Mati satu tinggallah 3
+Mati satu tinggallah 2
+Mati satu tinggallah 1
+Mati satu tinggal induknya
+
+Generalisasi:
+
+Anak ayam turunlah N
+Mati satu tinggallah N-1
+Mati satu tinggallah N-2
+….
+Mati satu tinggallah 2
+Mati satu tinggallah 1
+Mati satu tinggal induknya
+
+Buatlah  program yang menerima masukan sebuah integer positif > 0, misalnya N, dan menuliskan lirik lagu Anak Ayam dengan memanfaatkan pengulangan:
+
+1. do-while
+2. while
+3. for
