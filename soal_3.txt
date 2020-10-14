@@ -1,0 +1,17 @@
+Buatlah program yang menerima masukan 10 buah bilangan integer (dari keyboard) dan menuliskan ke layar jumlah total ke-10 integer tersebut.
+
+#Contoh 1
+Input:
+2
+1
+0
+-9
+7
+13
+2
+2
+1
+-1
+
+Output : 
+18
