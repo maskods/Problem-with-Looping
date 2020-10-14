@@ -11,4 +11,5 @@ int main() {
 			cout << "Mati satu tinggallah " << n-i << endl;		 
 	}
   cout << "Mati satu tinggal induknya";
+return 0;
 }
