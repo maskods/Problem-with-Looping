@@ -1,0 +1,23 @@
+Buatlah program yang meminta pengguna untuk memasukkan bilangan sebanyak N buah. Kemudian tentukan nilai minimal dan maksimal dari bilangan-bilangan yang di inputkan tersebut .
+
+Input: N (kemudian menginputkan bilangan-bilangan sebanyak N)
+Output: bilangan minimal dan maksimal dari bilangan yang diinputkan
+
+#Contoh 1
+4
+0
+2
+3
+5
+Minimal: 0
+Maksimal: 5
+
+#Contoh 2
+5
+9
+10
+22
+6
+2
+Minimal: 2
+Maksimal: 22
