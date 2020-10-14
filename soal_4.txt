@@ -1,0 +1,15 @@
+Pengguna akan memasukan beberapa nilai berupa bilangan negatif atau positif. jika pengguna memasukan angka -999 maka program akan menghitung nilai statustik sederhana untuk menghitung banyak bilangan, jumlah/total bilangan yang dimasukan dan rata-rata bilanganyang dimasukan.
+
+#Contoh 1
+Input :
+-1
+12
+-6.1
+10
+2.5
+-999
+
+Output:
+Banyak bilangan = 5
+Jumlah total = 17
+Rata-rata = 3.4
